@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Versão inicial estável do PlaceUp Pay.",
-  "pub_date": "2026-07-25T19:14:00Z",
+  "version": "0.1.2",
+  "notes": "Versão 0.1.2 do PlaceUp Pay.",
+  "pub_date": "2026-07-25T20:23:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "RURI4UKE9IGO/aJWJyJ/B1kbUc/wEVGUX+AHsnUcfWjtAdVe3Q5O9tqkaF02GcDZOr15ScE90te8lxPjMEzDSpRd9t7NJ7ilzAE=",
-      "url": "https://github.com/igorprandini/placeup-pay-releases/releases/download/v0.1.1/placeup-pay_0.1.1_x64_en-US.msi"
+      "signature": "RURI4UKE9IGO/eDZbRA3tjh9OnQr+vpn7JTo1LuYF9PWcM/zPFhrlOT1b1IB9S7jfnx48TdrcAj2nBcjvzqEhMIpjhQPW9tW3gc=",
+      "url": "https://github.com/igorprandini/placeup-pay-releases/releases/download/v0.1.2/placeup-pay_0.1.2_x64_pt-BR.msi"
     }
   }
 }
