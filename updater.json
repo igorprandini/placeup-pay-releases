@@ -4,7 +4,7 @@
   "pub_date": "2026-07-25T20:23:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "untrusted comment: signature from tauri secret key\nRURI4UKE9IGO/eDZbRA3tjh9OnQr+vpn7JTo1LuYF9PWcM/zPFhrlOT1b1IB9S7jfnx48TdrcAj2nBcjvzqEhMIpjhQPW9tW3gc=\ntrusted comment: timestamp:1785010747\tfile:placeup-pay_0.1.2_x64_pt-BR.msi\nrfiWAjid/efY+CHnqAwaHamuHDo3zk8KnZZjGeQgt5KGcyofIDXXE2Bi5meQ6Pr8hwk9fKisXfGvU4ETO6IqBg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTRVS0U5SUdPL2VEWmJSQTN0amg5T25Rcit2cG43SlRvMUx1WUY5PW...",
       "url": "https://github.com/igorprandini/placeup-pay-releases/releases/download/v0.1.2/placeup-pay_0.1.2_x64_pt-BR.msi"
     }
   }
